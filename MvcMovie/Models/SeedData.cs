@@ -42,7 +42,7 @@ namespace MvcMovie.Models
 
                     new Movie
                     {
-                        Title = "Ghostbusters 2",
+                        Title = "Vampire hunter D. bloodlust",
                         ReleaseDate = DateTime.Parse("1986-2-23"),
                         Genre = "Comedy",
                         Rating = "R",
