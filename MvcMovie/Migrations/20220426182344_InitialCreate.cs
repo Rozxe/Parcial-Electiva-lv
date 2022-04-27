@@ -31,6 +31,7 @@ namespace MvcMovie.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Movie");
+            //20220424184447. 20220424205248
         }
     }
 }
