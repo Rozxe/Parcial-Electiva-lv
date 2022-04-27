@@ -15,6 +15,7 @@ namespace MvcMovie.Migrations
                 nullable: true);
         }
 
+
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropColumn(

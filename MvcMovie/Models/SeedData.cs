@@ -18,6 +18,7 @@ namespace MvcMovie.Models
                 if (context.Movie.Any())
                 {
                     return;   // DB has been seeded
+
                 }
 
                 context.Movie.AddRange(
